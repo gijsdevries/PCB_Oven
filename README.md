@@ -4,3 +4,7 @@
 - Thermocouple: https://www.amazon.nl/dp/B07RBSG74Z?ref=ppx_yo2ov_dt_b_fed_asin_title
 - Thermocouple reader: https://www.amazon.nl/dp/B09SQ1XYMG?ref=ppx_yo2ov_dt_b_fed_asin_title
 - Relay: https://www.amazon.nl/dp/B07HT2BCKN?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+## Sources
+- The code is based on this format https://learn.adafruit.com/thermocouple/arduino-code
+- Inspiration from https://github.com/bytesizedengineering/Solder-Reflow-Oven/
